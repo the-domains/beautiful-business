@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beautiful Business]]></title>
+        <description><![CDATA[Beautiful Business]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 18:20:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We are so excited to announce the launch of the Beautiful Business Workshops, in a partnership with Power of Youth & Salt Magazine.</p>]]></description>
+            <link>undefinedwe-are-so-excited-to-announce-the-launch-of-the-beautiful-bu/index.html</link>
+            <guid isPermaLink="false">14c50c02-d697-43c2-8a93-32e4223e3ab1</guid>
+            <pubDate>Fri, 11 Mar 2016 18:20:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
